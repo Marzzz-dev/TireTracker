@@ -1,0 +1,101 @@
+[
+  {
+    "nama": "Planet Ban Ngagel",
+    "category": "tambal",
+    "lat": -7.29188,
+    "lng": 112.75762,
+    "address": "Jl. Ngagel Jaya Selatan No.116, Baratajaya, Kec. Gubeng, Surabaya",
+    "payment": "Cash, QRIS, Debit",
+    "phone": "0815-8314-123"
+  },
+  {
+    "nama": "Green Parts & Tambal Ban",
+    "category": "tambal",
+    "lat": -7.34890,
+    "lng": 112.66870,
+    "address": "Jl. Raya Geluran No.45, Geluran, Kec. Taman, Sidoarjo",
+    "payment": "Cash, QRIS",
+    "phone": "0812-3456-7890"
+  },
+  {
+    "nama": "Tambal Ban & Tip Top Barokah",
+    "category": "tambal",
+    "lat": -7.33945,
+    "lng": 112.69530,
+    "address": "Jl. Raya Mastrip No.182, Kebraon, Kec. Karangpilang, Surabaya",
+    "payment": "Cash Only",
+    "phone": "0857-3122-4455"
+  },
+  {
+    "nama": "Planet Ban Buduran",
+    "category": "tambal",
+    "lat": -7.42910,
+    "lng": 112.72145,
+    "address": "Jl. Raya Raden Patah No.18, Buduran, Kec. Buduran, Sidoarjo",
+    "payment": "Cash, QRIS, Debit",
+    "phone": "0815-8314-778"
+  },
+  {
+    "nama": "Tambal Ban 24 Jam Kutisari",
+    "category": "tambal",
+    "lat": -7.32980,
+    "lng": 112.74890,
+    "address": "Jl. Kutisari Besar No.34, Kutisari, Kec. Tenggilis Mejoyo, Surabaya",
+    "payment": "Cash Only",
+    "phone": "0813-5777-8911"
+  },
+  {
+    "nama": "SPBU Darmo Permai",
+    "category": "pom",
+    "lat": -7.2765,
+    "lng": 112.7362,
+    "address": "Jl. Darmo No.88, Surabaya",
+    "payment": "QRIS, Cash",
+    "phone": "031-5671234"
+  },
+  {
+    "nama": "SPBU Manyar",
+    "category": "pom",
+    "lat": -7.2689,
+    "lng": 112.7682,
+    "address": "Jl. Manyar Kertoarjo No.10, Surabaya",
+    "payment": "QRIS, Cash",
+    "phone": "031-5923456"
+  },
+  {
+    "nama": "SPBU Juanda",
+    "category": "pom",
+    "lat": -7.3751,
+    "lng": 112.7772,
+    "address": "Jl. Raya Juanda, Sidoarjo",
+    "payment": "QRIS, Cash",
+    "phone": "031-8675432"
+  },
+  {
+    "nama": "SPBU Kenjeran",
+    "category": "pom",
+    "lat": -7.2293,
+    "lng": 112.8096,
+    "address": "Jl. Kenjeran No.300, Surabaya",
+    "payment": "QRIS, Cash",
+    "phone": "031-7812345"
+  },
+  {
+    "nama": "SPBU Merr",
+    "category": "pom",
+    "lat": -7.2578,
+    "lng": 112.8015,
+    "address": "Jl. Raya Merr No.55, Surabaya",
+    "payment": "QRIS, Cash",
+    "phone": "031-5927890"
+  },
+  {
+    "nama": "SPBU Pondok Sidoarjo",
+    "category": "pom",
+    "lat": -7.4521,
+    "lng": 112.7005,
+    "address": "Jl. Pondok Mutiara No.1, Sidoarjo",
+    "payment": "QRIS, Cash",
+    "phone": "031-8943210"
+  }
+]
